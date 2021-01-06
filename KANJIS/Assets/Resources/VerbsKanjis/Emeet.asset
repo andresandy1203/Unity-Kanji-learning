@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Emeet
+  m_EditorClassIdentifier: 
+  _info: "\u4F1A"
+  _english: Meet/meeting
+  _onyomi: "KAI \u304B\u3044, No flying (\u304B\u3044)KItes at the big meeting!!  "
+  _mnemonic: "^(peaked roof) + \u4E91(twin cows, katakana \u2018mu\u2019\u30E0 moo
+    \ and \u4E8C) \u201CThe TWIN COWS held a big MEETING under the PEAKED ROOF.\u201D"
+  _kunyomi: " ( ni\u306B ) \u3042\uFF0A\u3046 (a*u) to meet someone \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u4F1A+\u793E= \u4F1A\u793E \u304B\u3044\u3057\u3083(kaisha)company \u2605\u2605\u2605\u2605\u2605]
+    [\u793E+\u4F1A=\u793E\u4F1A\u3057\u3083\u304B\u3044(shakai)society \u2605\u2605\u2605\u2605\u2605]
+    [\u4F1A+\u8A71= \u4F1A\u8A71 \u304B\u3044(kaiwa)conversation \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: "\u5408 (to suit, \u53E3 radical) You have a big meeting with TWIN
+    COWS. They say, \"Don't eat us! We don't suit your MOUTH!\""

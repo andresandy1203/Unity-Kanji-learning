@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 7day
+  m_EditorClassIdentifier: 
+  _info: "\u66DC"
+  _english: day of week
+  _onyomi: YOU
+  _mnemonic: "!!?? \u2026 \u2026 \u2026 okay so its (\u65E5 day)+(what looks like
+    two reversed \u2018E\u2019s , at least in this font)+(\u30A4 person, maybe)+(!!???
+    I guess little hat and two(\u571F dirt) under it)"
+  _kunyomi: No kunyomi, so I will take this space to apologize for the mnemonic, I
+    tried, good thing is this kanji is used exclusevely on the names of the days of
+    the week
+  _jukugo: "[\u6708 +\u66DC(day of week)+\u65E5= \u6708\u66DC\u65E5  \u3052\u3064\u3088\u3046\u3073(getsuyoubi)
+    Monday \u2605\u2605\u2605\u2605\u2605] [\u4F55+\u66DC+\u65E5= \u4F55\u66DC\u65E5
+    \u306A\u3093\u3088\u3046\u3073(nanyoubi) what day of the week? \u2605\u2605\u2605\u2605\u2605
+    ][\u65E5+\u66DC\u65E5= \u65E5\u66DC\u65E5  \u306B\u3061\u3088\u3046\u3073(nichiyoubi)
+    Sunday \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

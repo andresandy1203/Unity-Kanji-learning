@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 9goin
+  m_EditorClassIdentifier: 
+  _info: "\u5165"
+  _english: Put/Go In
+  _onyomi: "NYUU \u306B\u3085\u3046"
+  _mnemonic: "Unlike the lookalike 'person' kanji (\u4EBA\uFF09, the top of \u5165bends
+    left, so you can say, 'I take my (\u306B\u3085\u3046\uFF09NEW axe and put it in
+    your left side'"
+  _kunyomi: "( ni\u306B /wo \u3092 ) \u3044\uFF0A\u308C\u308B(i*reru) I put it in
+    (I put the dog in the doghouse)\u2605\u2605\u2605\u2605\u2605 ( \u306B / ga\u304C
+    ) \u306F\u3044\uFF0A\u308B(hai*ru)it goes in (The dog goes in the doghouse)\u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u5165+\u53E3=\u5165\u308A\u53E3 \u3044\u308A\u3050\u3061(iriguchi) domwtimes
+    shortened to\u5165\u53E3\u2605\u2605\u2605\u2605\u2606] [\u5165\u5B66\u5165\u5B66\u306B\u3085\u3046\u304C\u304F(nyuugaku)
+    to start school at a new school \u2605\u2605\u2606\u2606\u2606]"
+  _lookalikes: "\u4EBA(person) The top of 'put in' \u5165faces left and - at least
+    in larger fonts - the top little yoink of 'person'\u4EBAfaces right."

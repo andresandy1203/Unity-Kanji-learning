@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Dstand
+  m_EditorClassIdentifier: 
+  _info: "\u7ACB"
+  _english: Stand Up
+  _onyomi: "RITSU \u308A\u3064, Do you know (\u308A\u3064)RITZ cookies, stand up and
+    try em"
+  _mnemonic: (a hat)+(standing worms) "OK. it looks like a pot. With a lid. Everybody
+    says that. But it means "stand up," so deal.  Here is a way to make this acceptable:Two
+    WORMS STAND UP from the ground, holding the HAT aloft."
+  _kunyomi: "( wo\u3092 ) \u305F\uFF0A\u3064(ta*tsu)I stand up\u2605\u2605\u2605\u2605\u2605
+    ( ga\u304C ) \u305F\uFF0A\u3066\u308B(ta*teru)Something stands up; something is
+    set up.\u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u76EE+\u7ACB= \u76EE\u7ACB \u3064\u3081\u3060\u3064(medatsu) to stand
+    out in a crowd. \u2605\u2605\u2605\u2606\u2606]"
+  _lookalikes: 

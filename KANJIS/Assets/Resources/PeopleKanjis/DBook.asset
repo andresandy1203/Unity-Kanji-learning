@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: DBook
+  m_EditorClassIdentifier: 
+  _info: "\u672C"
+  _english: Book/The Real/Foundation
+  _onyomi: "HON \u307B\u3093"
+  _mnemonic: "\u6728 (tree) + \u4E00 (one/line radical)  \u672C is tree (\u6728) plus
+    one line. You can think of that extra line as the REAL,. . .. uh, the ground!
+    The real estate the tree is growing in! Or, you can think of the line as a page
+    of a book (made from a tree). "
+  _kunyomi: "\u307B\u3093 (hon)book \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u65E5+\u672C+\u8A9E(language)=\u65E5\u672C\u8A9E \u306B\u307B\u3093\u3054(Nihongo)Japanese
+    \u2605\u2605\u2605\u2605\u2605 ]"
+  _lookalikes: 

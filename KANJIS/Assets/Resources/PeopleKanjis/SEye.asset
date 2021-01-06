@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: SEye
+  m_EditorClassIdentifier: 
+  _info: "\u76EE"
+  _english: Eye
+  _onyomi: "MOKU  It's (\u3082\u304F)MORE COOl if you wear sunglasses over your eyes."
+  _mnemonic: its just an eye, but upside down, because... reasons
+  _kunyomi: "\u3081 (me) eye \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u76EE+\u7684(motivation, `al`)= \u76EE\u7684 \u3082\u304F\u3066\u304D(mokuteki)
+    Motive \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

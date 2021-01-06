@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 3Few
+  m_EditorClassIdentifier: 
+  _info: "\u5C11"
+  _english: A Little (amount)
+  _onyomi: "SHOU \u3057\u3087\u3046, SHOW me a little smile!  "
+  _mnemonic: "\u5C0F (small size) + \u4E00 (one/line radical) \"a face smiling A LITTLE,
+    hes a little happy\""
+  _kunyomi: "\u3059\u304F*\u306A\u3044(suku*nai)just a little\u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u5C11+\u5E74= \u5C11\u5E74 \u3057\u3087\u3046\u306D\u3093(shounen) young
+    boy \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: "Chisai (\u5C0F) sad eyes and a big nose. He's sad because he's so
+    small.(\u5C11)Sukoshi is the same guy, but he's smiling a little bit(\u5C11).
+    He's a little bit happy."

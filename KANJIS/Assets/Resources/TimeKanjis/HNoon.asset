@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: HNoon
+  m_EditorClassIdentifier: 
+  _info: "\u663C"
+  _english: Noon
+  _onyomi: none
+  _mnemonic: "\u5C3A (R for ROCK) + \u65E6 (husband, he\u2019s the line lying under
+    the sun, tanning) \u201CMy husband eats rocks for lunch at noon.\u201D"
+  _kunyomi: "\u3072\u308B (Hiru )noon \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u663C+\u4F11(rest)= \u663C\u4F11\u307F \u3072\u308B\u3084\u3059\u307F(hiruyasumi)
+    \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

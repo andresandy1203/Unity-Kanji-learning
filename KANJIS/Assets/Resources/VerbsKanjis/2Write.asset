@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 2Write
+  m_EditorClassIdentifier: 
+  _info: "\u66F8"
+  _english: Write
+  _onyomi: "SHO \u3057\u3087, SHOw me how to write"
+  _mnemonic: "(the top E +\u5341 looking part means brush) + \u571F (earth) + \u65E5
+    (sun, day) \"I could write with this BRUSH on the EARTH all DAY\""
+  _kunyomi: "\u304B*\u304F write \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u8F9E(quit)+\u66F8= \u8F9E\u66F8 \u3058\u3057\u3087(jisho) dictionary
+    \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Mair
+  m_EditorClassIdentifier: 
+  _info: "\u7A7A"
+  _english: Air/Sky/Empty
+  _onyomi: "KUU \u304F\u3046 \"COOl air\""
+  _mnemonic: "\u7A74 (hole, \u516B eight holes in your crown(top part)) + \u5DE5 (craft
+    or industry, looks like and iron girder, used for making structures) \u201CAIR
+    came in through a HOLR in the airCRAFT carrier.\u201D"
+  _kunyomi: "\u305D\u3089 (sora)the sky \u2605\u2605\u2605\u2605\u2605 (ga\u304C )\u3042\uFF0A\u3044\u3066\u308B(a*iteru)to
+    be empty or vacant \u2605\u2605\u2605\u2605\u2606 ( wo\u3092 )\u3042\uFF0A\u3051\u308B(a*keru)to
+    empty out \u2606\u2606\u2606\u2606\u2606 "
+  _jukugo: "[\u7A7A+\u6C17= \u7A7A\u6C17 \u304F\u3046\u304D(kuuki) Air\u2605\u2605\u2605\u2605\u2605]
+    [\u7A7A+\u6E2F(harbor)= \u7A7A\u6E2F \u304F\u3046\u3053\u3046(kuukou) Airport\u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

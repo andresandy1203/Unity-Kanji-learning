@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 8Goout
+  m_EditorClassIdentifier: 
+  _info: "\u51FA"
+  _english: Pull Out/Go Out
+  _onyomi: "SHUTSU \u51FAHe pulls out his revolver and (\u3057\u3085\u3064)SHOOTS.
+    \ "
+  _mnemonic: "U looking part(is a pit) + \u4E00 (one/line radical) \u201C\u51FA is
+    two pits + a vertical line (which we'll think of as a string or cable) This looks
+    like you're hauling something up; Pulling the line of string out of the pits.\u201D "
+  _kunyomi: "( wo\u3092  \u3060\uFF0A\u3059(ta*su)I take it out\u2605\u2605\u2605\u2605\u2605
+    ( ga\u304C )\u3067\uFF0A\u308B(te*ru)it comes out\u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u51FA+\u53E3=\u51FA\u53E3 \u3067\u3050\u3061(deguchi) Exit \u2605\u2605\u2605\u2605\u2605]
+    [\u51FA+\u6765= \u51FA\u6765\u308B \u3067\u304D\u308B(dekiru) to be able to do
+    \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

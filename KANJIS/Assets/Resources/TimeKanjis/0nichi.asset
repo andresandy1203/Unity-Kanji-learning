@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 0nichi
+  m_EditorClassIdentifier: 
+  _info: "\u65E5"
+  _english: Sun, Day
+  _onyomi: "NICHI\u3000\u306B\u3061,  JITSU \u3058\u3064 \"Frederich NIETSZHIE(\u306B\u3061)
+    spends every day doing ju JITSU(\u3058\u3064)\u201D"
+  _mnemonic: "You'll see this kanji so much, you probably don't need any story, its
+    even in Japan's Kanji  '\u65E5\u672C'NIHON"
+  _kunyomi: "\u3072(HI) a day \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u6628(yesterday)+\u65E5= \u6628\u65E5  \u304D\u306E\u3046(kinou) Yesterday
+    \ \u2605\u2605\u2605\u2605\u2605] [\u4ECA(now)+\u65E5= \u4ECA\u65E5  \u304D\u3087\u3046(kyou)
+    Today  \u2605\u2605\u2605\u2605\u2605] [\u660E(bright)+\u65E5= \u660E\u65E5  \u3042\u3057\u305F(ashita)
+    Tomorrow  \u2605\u2605\u2605\u2605\u2605] [\u66DC(day of week)+\u65E5= \u66DC\u65E5
+    \ \u3088\u3046\u3073(youbi) Day of Week(Counter)  \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

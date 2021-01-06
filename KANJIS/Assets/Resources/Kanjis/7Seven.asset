@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 7Seven
+  m_EditorClassIdentifier: 
+  _info: "\u4E03"
+  _english: Seven
+  _onyomi: "SICHI\u3000\u3057\u3061, (\u3057\u3061)SHE CHEATS seven times. Use onyomi
+    when counting months and time"
+  _mnemonic: "It Kinda looks like a cursive seven upside down, or like the katakana
+    \u30D2'Hi' with aggresive strokes"
+  _kunyomi: "\u306A\u306A(nana) seven \u2605\u2605\u2605\u2605\u2605\u3000\u306A\u306A\uFF0A\u3064(nana*tsu)
+    seven things \u2605\u2605\u2605\u2605\u2606 "
+  _jukugo: "[\u4E03+\u6708(month)= \u4E03\u6708 \u3057\u3061\u304C\u3064(shichigatsu)July
+    \u2605\u2605\u2605\u2605\u2605] [\u4E03+\u65E5(sun.day)= \u4E03\u65E5 \u306A\u306E\u304B(nanoka)
+    \ Seventh day of the month \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

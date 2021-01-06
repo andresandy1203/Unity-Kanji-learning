@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 0person
+  m_EditorClassIdentifier: 
+  _info: "\u4EBA"
+  _english: Person
+  _onyomi: "NIN \u306B\u3093, JIN \u3058\u3093, (\u306B\u3093)NINjas wear (\u3058\u3093)JEANs
+    on casual friday. It is kind of awkward at first, but you'll get used to it.  Mnemonic"
+  _mnemonic: Think of it as the person's legs
+  _kunyomi: "\u3072\u3068 (hito) person \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u4EBA+\u9593(period of time)= \u4EBA\u9593 \u306B\u3093\u3052\u3093(ningen)person\u2605\u2605\u2605\u2605\u2606]
+    [\u4EBA+\u751F= \u4EBA\u751F \u3058\u3093\u305B\u3044(jinsei) life\u2605\u2605\u2605\u2606\u2606]
+    [\u5927+\u4EBA=\u5927\u4EBA \u304A\u3068\u306A(otona) adult \u2605\u2605\u2605\u2606\u2606]"
+  _lookalikes: "\u5165(go in, put in) The top of 'put in' \u5165faces left and - at
+    least in larger fonts - the top little yoink of 'person'\u4EBAfaces right."

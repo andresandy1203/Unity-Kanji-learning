@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Xname
+  m_EditorClassIdentifier: 
+  _info: "\u540D"
+  _english: Name/Famous
+  _onyomi: "MEI\u3081\u3044, You (\u3081\u3044)MAY know my name because I am so famous."
+  _mnemonic: "\u5915 (evening) + \u53E3 (mouth/small box radical) \"\t In the evening
+    at the show, the singer's mouth made him famous\""
+  _kunyomi: 
+  _jukugo: "[\u540D+\u524D(before)= \u540D\u524D \u306A\u307E\u3048(namae) Name \u2605\u2605\u2605\u2605\u2605][\u6709+\u540D=
+    \u6709\u540D \u3086\u3046\u3081\u3044(yuumei) famous \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: "\u5404(each) \"\u5404 EACHe has its legs crossed \u540D doesnt\""

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: DEast
+  m_EditorClassIdentifier: 
+  _info: "\u6771"
+  _english: East
+  _onyomi: "TOU \u3068\u3046, Go east on your tip-(\u3068\u3046)TOES.  "
+  _mnemonic: "\u6728 (tree) + \u7530 (rice field) \" Rice fields and trees grow better
+    back east.  \""
+  _kunyomi: "\u3072\u304C\u3057 (higashi) east \u2605\u2605\u2605\u2605\u2606 "
+  _jukugo: "[\u6771+\u4EAC= \u6771\u4EAC \u3068\u3046\u304D\u3087\u3046(toukyou) Tokyo
+    \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Cdrink
+  m_EditorClassIdentifier: 
+  _info: "\u98F2"
+  _english: Drink
+  _onyomi: "IN \u3044\u3093. Drink it all IN(\u3044\u3093)."
+  _mnemonic: "\u98DF (eat) + \u6B20 (lack\u3001\u4EBA (person) + Rifle, the person
+    lacks a rifle) \u201CDRINKING is like EATING but with a LACK of solids.\u201D"
+  _kunyomi: "\u306E*\u3080 (no*mu) drink, \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u98F2+\u7269= \u98F2\u307F\u7269 \u306E\u307F\u3082\u306E(nomimono)
+    beverages\u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

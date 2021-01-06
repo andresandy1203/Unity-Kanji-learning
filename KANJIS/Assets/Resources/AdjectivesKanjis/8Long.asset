@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 8Long
+  m_EditorClassIdentifier: 
+  _info: "\u9577"
+  _english: Long/Boss
+  _onyomi: "CHOU \u3061\u3087\u3046,"
+  _mnemonic: "(the bottom part looks like someone kicking something)+(???) \"\t I
+    have no idea what that top radical is supposed to be. So, regardless, here's a
+    mnemonic:  I've waited a LONG TIME to KICK-ball with my BOSS.\""
+  _kunyomi: "\u306A\u304C*\u3044 (naga*i)long \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u793E+\u9577= \u793E\u9577 \u3057\u3083\u3061\u3087\u3046(shachou) company
+    boss. \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

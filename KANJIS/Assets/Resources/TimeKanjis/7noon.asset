@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 7noon
+  m_EditorClassIdentifier: 
+  _info: "\u5348"
+  _english: Noon
+  _onyomi: "GO \u3054 Get Out of my house by noon!  "
+  _mnemonic: "Doesn\u2019t it look like the \u5E74 kanji only this time with one less
+    rifle? \u201CAt noon I only rest one rifle on my cross\u201D"
+  _kunyomi: 
+  _jukugo: "[\u5348+\u524D(before)=\u5348\u524D \u3054\u305C\u3093(gozen) AM\u2605\u2605\u2605\u2605\u2605]
+    [\u5348+\u5F8C(afterwards/behind)=\u5348\u5F8C \u3054\u3054(gogo) PM\u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: "\u725B(cow) The cow has a head that sticks up in the middle.  Noon
+    does not have a head because it is an abstract concept, not a physical animal."

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Hknow
+  m_EditorClassIdentifier: 
+  _info: "\u77E5"
+  _english: Know
+  _onyomi: "CHI \u3061, do you KNOW about (\u3061)CHEEse"
+  _mnemonic: "Rifle (the top left part) + \u5927 (big) + \u53E3 (mouth/small box radical)
+    \u201CThe BIG man puts a RIFLE in the deer\u2019s MOUTH because it KNOWS too much\u201D"
+  _kunyomi: " \u3057\uFF0A\u3063\u3066\u308B (shi*teru) to know something or someone.\u2605\u2605\u2605\u2605\u2605"
+  _jukugo: 
+  _lookalikes: "\u548C(peace/ Japan,\u6728 (tree) + \u4E00 (one/line radical)+\u53E3)\u3001[a
+    tree an a line is peacefull \u548C] [knowing\u77E5 is not so peaceful, with the
+    rifle and all]"

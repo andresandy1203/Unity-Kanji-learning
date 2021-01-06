@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 1One
+  m_EditorClassIdentifier: 
+  _info: "\u4E00"
+  _english: 'One/Line Radical '
+  _onyomi: "ICHI \u3044\u3061, ITSU \u3044\u3064 \"EACH(\u3044\u3061) of his songs
+    are so good, his album ITS(\u3044\u3064) going to be number ONE\""
+  _mnemonic: Just one simple line
+  _kunyomi: "\u3072\u3068*\u3064(hito*tsu)\u3000 one thing     \u2605\u2605\u2605\u2605\u2606->usefulnes"
+  _jukugo: "[\u4E00 + \u4EBA(person) =\u3000\u4E00\u4EBA\u3067  \u3072\u3068\u308A\u3067(hitoride)
+    one person, alone \u2605\u2605\u2605\u2605\u2605] [\u4E00 + \u65E5(sun, day) =\u3000\u4E00\u65E5
+    \u3064\u3044\u305F\u3061(tsuitachi) first day of the month \u2605\u2605\u2605\u2605\u2606]
+    \  [ \u4E00 + \u6708(moon) =\u3000\u4E00\u6708 \u3044\u3061\u304C\u3064(Ichigatsu)
+    January \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: This kanji doesn't have any specific lookalikes

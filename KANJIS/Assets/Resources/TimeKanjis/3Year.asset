@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 3Year
+  m_EditorClassIdentifier: 
+  _info: "\u5E74"
+  _english: year
+  _onyomi: "NEN \u306D\u3093"
+  _mnemonic: Hmm.. Well lets say the top part is a rifle, and below it there is what
+    looks like another rifle resting on the horizontal stick of a cross "Every year
+    I put two rifles on my cross in the backyard, why? I lost a bet"
+  _kunyomi: "\u3068\u3057(toshi) a year \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u6BCE(every)+\u5E74= \u6BCE\u5E74 \u307E\u3044\u3068\u3057(maitoshi)
+    every year \u2605\u2605\u2605\u2605\u2605] [\u4ECA(now)+\u5E74 = \u4ECA\u5E74\u3000\u3053\u3068\u3057(kotoshi)
+    this year \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: ATree
+  m_EditorClassIdentifier: 
+  _info: "\u6728"
+  _english: Tree
+  _onyomi: "MOKU \u3082\u304F, Smoking trees is (\u3082\u304F)MORE COOL than smoking
+    cigarettes.  "
+  _mnemonic: 'The VERTICAL line is the tree trunk. The other four lines are big branches.  '
+  _kunyomi: "\u304D (ki) tree \u2605\u2605\u2605\u2606\u2606 "
+  _jukugo: "[\u6728+\u66DC\u65E5= \u6728\u66DC\u65E5  \u3082\u304F\u3088\u3046\u3073(mokuyoubi)
+    Thursday \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

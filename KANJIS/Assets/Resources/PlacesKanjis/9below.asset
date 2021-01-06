@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 9below
+  m_EditorClassIdentifier: 
+  _info: "\u4E0B"
+  _english: Below
+  _onyomi: "GE \u3052, KA \u304B, (\u3052)GEt BELOW the (\u304B)CAr"
+  _mnemonic: "Oposite of \u4E0A, the \u30C8 is now under"
+  _kunyomi: "\u3057\u305F(shita)below \u2605\u2605\u2605\u2605\u2605 ( wo\u3092 )\u3055\uFF0A\u3052\u308B(sa*geru)I
+    lower it 1/2 KANA\u2605\u2605\u2605\u2606\u2606 ( \u304C ga)\u304F\u3060\uFF0A\u308B(kuda*ru)it
+    gets lowered\u2605\u2605\u2606\u2606\u2606 \u304F\u3060\uFF0A \u3055\u3044\t(kuda*sai)please
+    (formal spelling only)\u2605\u2605\u2605\u2606\u2606 "
+  _jukugo: "[\u4E0B(below)+\u624B= \u4E0B\u624B \u3078\u305F(heta) untalented\u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

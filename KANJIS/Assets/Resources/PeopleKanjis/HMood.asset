@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: HMood
+  m_EditorClassIdentifier: 
+  _info: "\u6C17"
+  _english: Mood
+  _onyomi: "KI \u304D, KEep being in a good MOOD"
+  _mnemonic: "(the rifle, with an extra stroke)+(Open scissors with an extra hook)+(\u30E1katakana
+    \u2018me\u2019)\u201CI'm in a bad MOOD - I (\u30E1)MAy stab you with SCISSORS
+    or shoot you with a RIFLE in this mood.\u201D"
+  _kunyomi: "\u304D KI, mood, spirit, always used as part of an expression \u2605\u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u5143(original)+\u6C17= \u5143\u6C17 \u3052\u3093\u304D(genki) cheerful,
+    energetic, finel \u2605\u2605\u2605\u2605\u2605][\u5929(heaven)+\u6C17= \u5929\u6C17
+    \u3066\u3093\u304D(tenki) Weather \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

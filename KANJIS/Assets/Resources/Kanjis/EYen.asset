@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: EYen
+  m_EditorClassIdentifier: 
+  _info: "\u5186"
+  _english: Yen/Circle
+  _onyomi: "EN \u3048\u3093, if you (\u3048\u3093)enjoyed the show give the man a
+    yen"
+  _mnemonic: The surrounding radical looks like a moustache, the two boxes inside
+    could the the teeth you see when the man with the mustache smiles after you gave
+    him one yen.
+  _kunyomi: "\u307E\u308B*\u3044 (maru*i)circular (not used! People use the OTHER
+    \u307E\u308B\u3044\uFF08\u4E38\u3044\uFF09 instead) \u2605\u2606\u2606\u2606\u2606
+    \      \u3048\u3093(en) yen! \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u4E03+\u5343+\u5186= \u4E03\u5343\u5186  \u306A\u306A\u305B\u3093\u3048\u3093(nanasenen)
+    seven thousand yen \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

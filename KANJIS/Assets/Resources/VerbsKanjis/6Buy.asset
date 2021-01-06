@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 6Buy
+  m_EditorClassIdentifier: 
+  _info: "\u8CB7"
+  _english: Buy
+  _onyomi: "BAI \u3070\u3044, BAIy BUY get it"
+  _mnemonic: "\u306F\u306A\uFF0A\u3057(hana*shi)a story.\u2605\u2605\u2605\u2605\u2605
+    \u8C9D (shellfish/money, looks like a shellfish don\u2019t it?) + Net(the laying
+    down\u76EE radical means net) \u201CYou BUY too much with your MONEY because you
+    are caught in the net of capitalism\u201D "
+  _kunyomi: "\u304B*\u3046(ka*u)buy \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u8CB7+\u7269(animal.things)=\u8CB7\u3044\u7269 \u304B\u3044\u3082\u306E(Kaimono)
+    Shopping \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

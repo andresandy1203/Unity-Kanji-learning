@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 9white
+  m_EditorClassIdentifier: 
+  _info: "\u767D"
+  _english: White
+  _onyomi: "HAKU \u306F\u304F, We have to (\u306F\u304F)HACK the WHITE computer"
+  _mnemonic: "\u65E5 (sun, day) + \u4E36 (dot) \"picture a WHITE rabbit with a small
+    cigarette\u4E36 smoking all DAY\""
+  _kunyomi: "\u3057\u308D*\u3044 (shiro*i)white \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u9762front surface / face)+\u767D= \u9762\u767D\u3044 \u304A\u3082\u3057\u308D\u3044(omoshiroi)
+    nteresting \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

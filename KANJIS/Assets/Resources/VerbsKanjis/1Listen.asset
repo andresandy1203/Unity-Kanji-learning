@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 1Listen
+  m_EditorClassIdentifier: 
+  _info: "\u805E"
+  _english: Listen/Ask
+  _onyomi: "BUN \u3076\u3093"
+  _mnemonic: "\u9580 (gate) + \u8033 (ear) \"Use your EAR to LISTEN to (\u3076\u3093)BUNnies
+    hopping through the GATE\""
+  _kunyomi: "( ni\u306B ) \u304D\uFF0A\u304F(ki*ku)to ask or inquire\u2605\u2605\u2605\u2606\u2606
+    ( wo\u3092 ) \u304D\uFF0A\u304F(ki*ku)to hear a sound\u2605\u2605\u2605\u2605\u2606
+    ( ga\u304C ) \u304D\uFF0A\u3053\u3048\u308B(ki*koeru) be able to hear\u2605\u2605\u2605\u2606\u2606 "
+  _jukugo: 
+  _lookalikes: "[\u9580 Gate] [\u554F question,problem] [GATE(\u9580) has NOTHING
+    IN THE CENTER, IT'S OPEN - so you can walk through it.] [There is an INTERVAL(\u9593)
+    of one DAY(\u65E5) between things,][ and you ask a QUESTION(\u554F) with your
+    MOUTH(\u53E3)]."

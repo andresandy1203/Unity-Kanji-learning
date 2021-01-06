@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Ysilver
+  m_EditorClassIdentifier: 
+  _info: "\u9280"
+  _english: Silver
+  _onyomi: "GIN \u304E\u3093, GIN tonic is kinda silverish"
+  _mnemonic: "\u91D1 (gold) + \u826F (good) \"Sliver is as good as gold\""
+  _kunyomi: 
+  _jukugo: "[\u9280+\u884C(go) = \u9280\u884C \u304E\u3093\u3053\u3046(ginkou) bank\u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

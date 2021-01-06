@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 9Water
+  m_EditorClassIdentifier: 
+  _info: "\u6C34"
+  _english: Water
+  _onyomi: "SUI \u3059\u3044, In the desert, the water tasted (\u3059\u3044)SWEet."
+  _mnemonic: 'The vertical stroke is like a waterfall, with four drops of water splashing
+    out from it.  '
+  _kunyomi: "\u307F\u305A (mizu) water \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u6C34+\u66DC\u65E5= \u6C34\u66DC\u65E5  \u3059\u3044\u3088\u3046\u3073(suiyoubi)
+    Wednesday \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: "[\u6C37ice] [\u6C38 forever] [ \u6C37has the SNOWFLAKE on top, \u6C34
+    doesn't. So you can say, \"\u6C34 doesn't have a SNOWFLAKE because water is warm.]
+    [If it has been icy FOR EVER(\u6C38), there are TWO SNOWFLAKES piled up on top
+    of each other!]"

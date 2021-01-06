@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Glive
+  m_EditorClassIdentifier: 
+  _info: "\u4F4F"
+  _english: Dwell/Live
+  _onyomi: "JUU \u3058\u3085\u3046, JEWish people live all around the earth"
+  _mnemonic: "\u30A4(person) + \u4E3B (master, king \u738B with a hat for crown) \"a
+    PERSON LIVES in the MASTERS house\""
+  _kunyomi: "\u3059\uFF0A\u3080 (su*mu) to live in \u2605\u2605\u2605\u2606\u2606"
+  _jukugo: 
+  _lookalikes: 

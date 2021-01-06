@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 5Country
+  m_EditorClassIdentifier: 
+  _info: "\u56FD"
+  _english: Country
+  _onyomi: "KOKU \u3053\u304F, KOKU-KOLAS are sold in every country"
+  _mnemonic: "\u7389 (ball, king\u738B playing with a little ball) +\u53E3(big box)
+    \u201CCOUNTRIES are just BIG BOXES where BALLS of people hang out\u201D"
+  _kunyomi: "\u304F\u306B (Kuni), country \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u5916+\u56FD+\u4EBA= \u5916\u56FD\u4EBA \u304C\u3044\u3053\u304F\u3058\u3093(gaikokujin)Foreigner,
+    slightly more formal\u2605\u2605\u2605\u2605\u2605] [\u5929+\u56FD= \u5929\u56FD
+    \u3066\u3093\u3053\u304F(tenkoku) Heaven \u2605\u2605\u2605\u2606\u2606]"
+  _lookalikes: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 7Go
+  m_EditorClassIdentifier: 
+  _info: "\u884C"
+  _english: Go
+  _onyomi: "KOU \u3053\u3046, GO get me some (\u3053\u3046)COca cola.  "
+  _mnemonic: "\u30A4(person) + \u4E01 (nail) + (two extra Speed Lines on top, like
+    in a comic strip) \u201CSo, a PERSON holding a NAIL is GOING somewhere, and they
+    get speed lines because they are going fast.\u201D"
+  _kunyomi: "\u3044\uFF0A\u304F(i*ku)go\u2605\u2605\u2605\u2605\u2605 ( wo\u3092 )
+    \u304A\u3053\u306A\uFF0A\u3046(okona*u)to carry out a task\u2605\u2605\u2605\u2605\u2606
+    \u3086\uFF0A\u304F(yu*ku)for someone to go away. \u2605\u2606\u2606\u2606\u2606 "
+  _jukugo: "[\u9280+\u884C= \u9280\u884C \u304E\u3093\u3053\u3046(ginkou) bank \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

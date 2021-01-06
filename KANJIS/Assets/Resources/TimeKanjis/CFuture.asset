@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: CFuture
+  m_EditorClassIdentifier: 
+  _info: "\u6765"
+  _english: Come/Future
+  _onyomi: "RAI \u3089\u3044"
+  _mnemonic: "rice \u3014\u7C73) plus a line, which we'll call a horizontal bolt of
+    RAIghtning. So you can say . . . In the future, we'll use RAIghtning to cook our
+    rice! "
+  _kunyomi: "\u304F\uFF0A\u308B (ku*ru) come \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u6765+\u5E74= \u6765\u5E74 \u3089\u3044\u306D\u3093(rainen) next year
+    \u2605\u2605\u2605\u2605\u2605][\u6765+\u6708= \u6765\u6708 \u3089\u3044\u3052\u3064(raigetsu)
+    next month \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

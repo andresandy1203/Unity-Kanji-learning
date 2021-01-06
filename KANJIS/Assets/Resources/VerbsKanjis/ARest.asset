@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: ARest
+  m_EditorClassIdentifier: 
+  _info: "\u4F11"
+  _english: Rest
+  _onyomi: "KYUU \u304D\u3085\u3046"
+  _mnemonic: "\u30A4(person) + \u6728 (tree) \"The (\u304D\u3085\u3046)CUte PERSON
+    RESTS against a TREE.\""
+  _kunyomi: "\u3084\u3059*\u307F(yasu*mi)a break (a day off=\u4F11\u307F\u306E\u65E5)\u2605\u2605\u2605\u2605\u2605
+    \u3084\u3059\uFF0A\u3080(yasu*mu)relax, to take a day off\u2605\u2605\u2605\u2605\u2606 "
+  _jukugo: "[\u4F11+\u65E5= \u4F11\u65E5 \u304D\u3085\u3046\u3057\u3064(kyuujitsu)
+    A holiday \u2605\u2605\u2606\u2606\u2606][\u663C+\u4F11(rest)= \u663C\u4F11\u307F
+    \u3072\u308B\u3084\u3059\u307F(hiruyasumi) \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Ithink
+  m_EditorClassIdentifier: 
+  _info: "\u601D"
+  _english: Think
+  _onyomi: "SHI \u3057"
+  _mnemonic: "\u7530 (rice field) + Heart (bottom part means heart) \u201CSHE's so
+    into RICE, when she THINKS about RICE, her HEART starts racing.\u201D"
+  _kunyomi: " ( to\u3068 ) \u304A\u3082\uFF0A\u3046(omo*u) To think \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u601D + \u51FA = \u601D\u3044\u51FA\u3059 \u304A\u3082\u3044\u3060\u3059(omoidasu)remember
+    \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

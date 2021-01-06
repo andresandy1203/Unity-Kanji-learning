@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 2Two
+  m_EditorClassIdentifier: 
+  _info: "\u4E8C"
+  _english: two
+  _onyomi: "NI \u306B\u3000ICHIcolas Cage + ICHIcolas Cage \uFF1D (\u306B)NIcolas
+    cages  "
+  _mnemonic: 'two simple paralel horizontal lines '
+  _kunyomi: "\u3075\u305F*\u3064(futa*tsu)\ttwo things \u2605\u2605\u2605\u2605\u2606 "
+  _jukugo: "[ \u4E8C + \u4EBA(person) =\u3000\u4E8C\u4EBA\u3067  \u3075\u305F\u308A\u3067(futaride)
+    two people \u2605\u2605\u2605\u2605\u2605 ]\u3000[ \u4E8C + \u6708(moon) =\u3000\u4E8C\u6708
+    \u306B\u304C\u3064(Nigatsu) February \u2605\u2605\u2605\u2605\u2605]  [\u4E8C
+    + \u65E5(sun, day) =\u3000\u4E8C\u65E5 \u3075\u3064\u304B(futsuka) second day
+    of the month \u2605\u2605\u2605\u2605\u2606]   "
+  _lookalikes: This kanji doesn't have any specific lookalikes

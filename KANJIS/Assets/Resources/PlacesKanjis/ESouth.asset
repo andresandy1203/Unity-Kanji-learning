@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: ESouth
+  m_EditorClassIdentifier: 
+  _info: "\u5357"
+  _english: South
+  _onyomi: "NAN \u306A\u3093"
+  _mnemonic: "\u5341 (ten) + (Moustache) + \uFFE5 (yen) \u201CIf you insert TEN YEN
+    into a  MOUSTACHE, you\u2019ll be taken down SOUTH to India where you can get
+    some (\u306A\u3093)NAN bread.\u201D "
+  _kunyomi: "\u307F\u306A\u307F\u3000(minami) south \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: 
+  _lookalikes: 

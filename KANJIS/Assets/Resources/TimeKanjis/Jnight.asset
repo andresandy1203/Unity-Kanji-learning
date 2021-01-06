@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Jnight
+  m_EditorClassIdentifier: 
+  _info: "\u591C"
+  _english: Late Night
+  _onyomi: "YA \u3084, Late at night, I start to (\u3084)YAWN.  "
+  _mnemonic: "(the little hat, was used in \u516D, remember?)+(\u30A4 person)+ (\u5915evening),
+    \u201CIf YA see a PERSON wearing a HAT LATE AT NIGHT, you should definitely go
+    home . He's Jack the Ripper!!! (the extra stroke on the evening radical ? His
+    blade!!!)\u201D"
+  _kunyomi: "\u3088\u308B (yoru) night \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u4ECA+\u591C= \u4ECA\u591C \u30B3\u30F3\u3084(konya) tonight \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 6Friend
+  m_EditorClassIdentifier: 
+  _info: "\u53CB"
+  _english: Friend
+  _onyomi: "YUU \u3086\u3046, YOU are perhaps my best friend.  "
+  _mnemonic: "\u30CA(katakana \u2018na\u2019, thus NAruto) + \u53C8 (again, looks
+    like someone crossing his legs) \u201CNaruto, fights with his FRIENDS, AGAIN and
+    AGAIN\u201D"
+  _kunyomi: 
+  _jukugo: "[\u53CB+\u9054(plural/delivery)=\u53CB\u9054 \u3068\u3082\u3060\u3061(tomodachi)
+    friend \u2605\u2605\u2605\u2605\u2605] [\u53CB+\u4EBA=\u53CB\u4EBA \u3086\u3046\u3058\u3093(yuujin)
+    formal way of friend \u2605\u2605\u2606\u2606\u2606]"
+  _lookalikes: "\u53CD(anti) \"in \u53CD \u53C8 seems to be surrounded by a cliff
+    , in \u53CB he is surrounded by \u30CANAruto, cause NAruto is your friend, and
+    we are ANTI cliffs\u53CD\""

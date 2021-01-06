@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 4Four
+  m_EditorClassIdentifier: 
+  _info: "\u56DB"
+  _english: Four
+  _onyomi: "\u3057 SHI, '4' and '7' are numbers that don't follow the usual pronunciation
+    rules. When counting time or months, usually one uses the KUNs, but with 4 and
+    7 you use the ONs."
+  _mnemonic: "This kanji is made by joining the radical of animal legs inside the
+    \u53E3(mouth/box) radical: \"(\u3057)SHE the lioness can fit four legs in her
+    mouth\""
+  _kunyomi: "\u3088*\u3064(yotsu)\u30004 things  \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u56DB+\u6708(month)= \u56DB\u6708\u3057\u304C\u3064(shigatsu) April
+    \u2605\u2605\u2605\u2605\u2605]   [\u56DB+\u65E5(sun.day)= \u56DB\u65E5 \u3088\u3063\u304B(yokka)
+    \ Fourth day of the month \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: This kanji doesn't have any specific lookalikes

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: BMoney
+  m_EditorClassIdentifier: 
+  _info: "\u91D1"
+  _english: Gold
+  _onyomi: "KIN \u304D\u3093, He won the lottery, moved out the trailer park, but
+    he still won't share any gold with his (\u304D\u3093)KINfolk."
+  _mnemonic: " (^ peaked roof) + \u738B (king, (number one \u4E00 person on Earth\u571F))
+    + (horns) \u201CThe horned king hoards his gold in a treasury with a peaked roof.\u201D"
+  _kunyomi: "(\u304A)\u304B\u306D ((o)kane) Money \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u91D1+\u66DC\u65E5= \u91D1\u66DC\u65E5  \u304D\u3093\u3088\u3046\u3073(kinyoubi)
+    Friday \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

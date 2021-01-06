@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 9ato
+  m_EditorClassIdentifier: 
+  _info: "\u5F8C"
+  _english: afterwards/ behind
+  _onyomi: "GO \u3054, KOU \u3053\u3046 "
+  _mnemonic: "Tricky one, the left part looks like a katakana \u2018i\u2019\u30A4with
+    an additional dot friend; then we have what looks like a capital \u2018E\u2019with
+    some style, and then ...that weird thing looks like a katakana \u2018ta\u2019\u30BF
+    with a longer stroke, \u30A4E\u30BF\u3000IETA \u201CSee you LIETA(sounds like
+    a mispronounced later)\u201D"
+  _kunyomi: "\u3042\u3068 ( \u3067 )  (ato(de)) after.\u2605\u2605\u2605\u2605\u2605
+    ( YYY\u306E ) \u306E\u3061 ( \u306B ) ((no)nochi(ni)) after YYY \u2605\u2605\u2606\u2606\u2606
+    ( \uFF5A\uFF5A\uFF5A\u306E ) \u3046\u3057*\u308D ( \u3067 ) ((no)ushiro(de)) physically
+    behind ZZZ \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u5348+\u5F8C=\u5348\u5F8C \u3054\u3054(gogo) PM\u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

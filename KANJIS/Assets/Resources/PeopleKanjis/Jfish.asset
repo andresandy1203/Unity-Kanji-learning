@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Jfish
+  m_EditorClassIdentifier: 
+  _info: "\u9B5A"
+  _english: Fish
+  _onyomi: "GYO \u304E\u3087, Get Your Own fish."
+  _mnemonic: "(fishhook, the top part) + \u7530 (rice field) + (fire, the bottom part
+    means fire) \u201CCatch a fish with a fishhook, then cook it in the fire and eat
+    it with some rice.\u201D"
+  _kunyomi: "\u3055\u304B\u306A (sakana) a fish \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u91D1+\u9B5A=\u91D1\u9B5A \u304D\u3093\u304E\u3087(kingyo) Gold fish
+    \u2605\u2606\u2606\u2606\u2606]"
+  _lookalikes: 

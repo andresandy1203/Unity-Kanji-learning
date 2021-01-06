@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: BEat
+  m_EditorClassIdentifier: 
+  _info: "\u98DF"
+  _english: Eat
+  _onyomi: "SHOKU \u3057\u3087\u304F, I was (\u3057\u3087\u304F)SHOKed by the way
+    she eats"
+  _mnemonic: " ^(peaked roof) + \u826F (good) \"It's GOOD to EAT in a restaurant with
+    a PEAKED ROOF. Shows class.  \""
+  _kunyomi: "\u305F\u3079*\u308B(TABE*RU)eat \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: 
+  _lookalikes: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: DTenThousand
+  m_EditorClassIdentifier: 
+  _info: "\u4E07"
+  _english: Ten Thousand
+  _onyomi: "Man \u307E\u3093"
+  _mnemonic: "You can think of this as the katakana KU (\u30AF) plus the number one\u4E00
+    over it.\u3000\u201Da MAN puts ONE finger on a (\u30AF)COOkie TEN THOUSAND times!\u201D"
+  _kunyomi: "( \u4E00 ) \u307E\u3093([Ichi] Man)\t10,000  \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u767E+\u4E07+\u5186= \u767E\u4E07\u5186  \u3072\u3083\u304F\u307E\u3093\u3048\u3093(hyakumanen)
+    a million yen \u2605\u2605\u2605\u2605\u2606] [\u5343+\u4E07+\u5186= \u5343\u4E07\u5186
+    \ \u305B\u3093\u307E\u3093\u3048\u3093(senmanen) ten million yen \u2605\u2605\u2605\u2606\u2606]"
+  _lookalikes: "\u65B9 direction / method / person  \u65B9 means 'person', so naturally
+    it has a little 'head' stiking up on top - you can think of that as the person's
+    hat! \u4E07 is a number, so naturally it has NO HEAD. It's EVEN on top - which
+    makes sense because 10,000 is an even number."

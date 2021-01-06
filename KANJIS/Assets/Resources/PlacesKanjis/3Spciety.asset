@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 3Spciety
+  m_EditorClassIdentifier: 
+  _info: "\u793E"
+  _english: Society/Company
+  _onyomi: "SHA \u3057\u3083, make a company and you (\u3057\u3083)SHAll succeed"
+  _mnemonic: "\u30CD(katakana\u2018ne\u2019)+\u571F(earth) \u201CSo many \u30CDNEw
+    COMPANIES on EARTH... \u306D\u201D"
+  _kunyomi: 
+  _jukugo: "[\u4F1A(meet, meeting)+\u793E= \u4F1A\u793E \u304B\u3044\u3057\u3083(kaisha)company
+    \u2605\u2605\u2605\u2605\u2605] [\u793E+\u9577= \u793E\u9577 \u3057\u3083\u3061\u3087\u3046(shachou)
+    President of a company \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: "\u4ED5(work) The PERSON\u30A4 works\u4ED5,  but the company\u793E
+    makes \u30CDNEw businesses."

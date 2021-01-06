@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Wmouth
+  m_EditorClassIdentifier: 
+  _info: "\u53E3"
+  _english: mouth/small box radical
+  _onyomi: "KOU \u3053\u3046, KU \u304F\u3000\"My (\u304F)KUchi in your (\u3053\u3046)COlon...
+    iugh\""
+  _mnemonic: 'This is an open mouth, just yelling at you . Always yelling! '
+  _kunyomi: "\u304F\u3061(KUCHI)\u3000mouth \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u51FA+\u53E3= \u51FA\u53E3 \u3067\u3050\u3061(deguchi) Exit \u2605\u2605\u2605\u2605\u2605]
+    [\u5165+\u53E3=\u5165\u308A\u53E3 \u3044\u308A\u3050\u3061(iriguchi) domwtimes
+    shortened to\u5165\u53E3\u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

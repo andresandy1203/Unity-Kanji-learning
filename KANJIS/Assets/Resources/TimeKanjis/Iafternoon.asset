@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Iafternoon
+  m_EditorClassIdentifier: 
+  _info: "\u5915"
+  _english: Evening
+  _onyomi: none* it is the katakana "ta" character ! Unfortunately, it's pronounced
+    "YUU."
+  _mnemonic: 'When the Japanese come home in the evening after work they say TA-daima!
+    to YOUUU.  '
+  _kunyomi: "\u3086\u3046 (yuu)evening \u2605\u2605\u2606\u2606\u2606 never used by
+    itself"
+  _jukugo: "[\u5915+\u65B9= \u5915\u65B9 \u3086\u3046\u304C\u305F(yuugata) evening
+    \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

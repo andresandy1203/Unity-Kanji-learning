@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 1man
+  m_EditorClassIdentifier: 
+  _info: "\u7537"
+  _english: Man
+  _onyomi: "DAN \u3060\u3093"
+  _mnemonic: "\u7530 (rice field) + \u529B (strong, looks like katakana ka \u2018\u30AB\u2019
+    \u201CThe man uses his manly STRENGTH to harvest the RICE in the field. While
+    (\u3060\u3093)DANcing cause he\u2019s so manly.\u201D"
+  _kunyomi: "\u304A\u3068\u3053 (otoko)man \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u7537+\u5B50(child)=\u7537\u306E\u5B50 \u304A\u3068\u3053\u306E\u3053(otokonoko)
+    boy\u2605\u2605\u2605\u2605\u2605 ] [\u7537+\u6027(sex, nature)=\u7537\u6027\u3060\u3093\u305B\u3044(dansei)
+    male \u2605\u2605\u2605\u2606\u2606]"
+  _lookalikes: 

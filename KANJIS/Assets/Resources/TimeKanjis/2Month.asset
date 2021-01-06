@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 2Month
+  m_EditorClassIdentifier: 
+  _info: "\u6708"
+  _english: Moon (organ)
+  _onyomi: "GETSU \u3052\u3064\u3000\u201DThe United States had to GET TO(\u3052\u3064)
+    the moon before the Russians\u201D"
+  _mnemonic: the moustache again, now surrounding the sun, does that mean the moon
+    is the sun's moustache?
+  _kunyomi: "\u3064\u304D (tuki) the moon \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u6708 +\u66DC(day of week)+\u65E5= \u6708\u66DC\u65E5  \u3052\u3064\u3088\u3046\u3073(getsuyoubi)
+    Monday \u2605\u2605\u2605\u2605\u2605] [\u4ECA+\u6708=\u4ECA\u6708 \u3053\u3093\u3052\u3064(kongetsu)
+    This Month \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: 

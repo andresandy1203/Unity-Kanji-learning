@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 6Six
+  m_EditorClassIdentifier: 
+  _info: "\u516D"
+  _english: Six
+  _onyomi: "ROKU \u308D\u304F \"(\u308D\u304F)ROCK bands love the six six six number\""
+  _mnemonic: 'This kanji is made by joining the "hat" radical over the "eight" radical:
+    "SIX insects with eight legs wearing hats"'
+  _kunyomi: "\u3080\uFF0A\u3064 (Mu*tsu)/ \u3080\uFF0A\u3063\u3064(Mu*ttsu)\t6 things
+    \u2605\u2605\u2605\u2605\u2606 "
+  _jukugo: "[\u516D+\u6708(month)= \u516D\u6708 \u308D\u304F\u304C\u3064(rokugatsu)June
+    \u2605\u2605\u2605\u2605\u2605] [\u516D+\u65E5(sun.day)= \u516D\u65E5 \u3080\u3044\u304B(muika)
+    \ Sixth day of the month \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: 

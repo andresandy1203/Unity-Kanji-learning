@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 7Tall
+  m_EditorClassIdentifier: 
+  _info: "\u9AD8"
+  _english: Tall
+  _onyomi: "KOU \u3053\u3046, He's so tall he can see different (\u3053\u3046)COlors"
+  _mnemonic: "Hat (the top part) + \u53E3 (mouth/small box radical) + Goatee (the
+    bottom part) \"A TALL man wearing a HAT, a MOUTH and a GOATEE.\""
+  _kunyomi: "\u305F\u304B*\u3044 (taka*i)tall \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u9AD8+\u6821\u751F= \u9AD8\u6821\u751F \u3053\u3046\u3053\u3046\u305B\u3044(koukousei)
+    high school student \u2605\u2605\u2605\u2606\u2606]"
+  _lookalikes: 

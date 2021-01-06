@@ -1,0 +1,7 @@
+KANJIS/Assets/fonts/MPLUSRounded1c-Bold[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+KANJIS/Assets/fonts/MPLUSRounded1c-Medium[[:space:]]SDF.asset filter=lfs diff=lfs merge=lfs -text
+KANJIS/kanji.app/Contents/Resources/Data/sharedaddets0.assets filter=lfs diff=lfs merge=lfs -text
+KANJIS/Library/il2cpp_cache/linkresult_29357DC55AB839F8032AFE4F8687F226/build.bc filter=lfs diff=lfs merge=lfs -text
+KANJIS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+KANJIS/Library/PlayerDataCache/Win64/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+KANJIS/kanji.app/Contents/Resources/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text

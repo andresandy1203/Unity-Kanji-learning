@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 5pop
+  m_EditorClassIdentifier: 
+  _info: "\u7236"
+  _english: Dad
+  _onyomi: "FU \u3075,  dads like (\u3075)FUtsal"
+  _mnemonic: 'Think of dad on two crutches, the crutches crossing back and forth as
+    he awkardly walks.  '
+  _kunyomi: "\u3061\u3061 (chichi) father \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u304A\u7236\u3055\u3093\u3000\u304A\u3068\u3046\u3055\u3093(otousan)
+    papa \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: "\u4EA4(combine) \u201C\u4EA4 has the little hat to combine it with
+    crutches, to be fashionable, \u7236 isn\u2019t fashionable, so no hat\u201D"

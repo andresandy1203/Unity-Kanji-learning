@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: Fwhat
+  m_EditorClassIdentifier: 
+  _info: "\u4F55"
+  _english: What!?!?
+  _onyomi: KA, but you don't need to learn it.
+  _mnemonic: "katakana 'i' \u30A4(this radical actually means person) + \u53EF(\u53E3
+    surrounded by a \u2018nail\u2019looks like the open scissors radical, but with
+    a nail head sticking out) \u201CWhen you say \" WHAAT????\", you are asking that
+    PERSON if what they just said is really POSSIBLE.\u201D"
+  _kunyomi: "\u306A\u306B (nani) what \u2605\u2605\u2605\u2605\u2605 "
+  _jukugo: "[\u4F55+\u6642= \u4F55\u6642 \u306A\u3093\u3058(nanji)what time? \u2605\u2605\u2605\u2605\u2605]"
+  _lookalikes: "\u4F3A (formal visit / question) this one has an extra stroke than
+    nani\u4F55, maybe its a tie to make it \"formal\u4F3A\""

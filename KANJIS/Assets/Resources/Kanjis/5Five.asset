@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe69018775bc45669febaf03228bd2a, type: 3}
+  m_Name: 5Five
+  m_EditorClassIdentifier: 
+  _info: "\u4E94"
+  _english: Five
+  _onyomi: "GO  \u3054"
+  _mnemonic: It actually looks like a '5' with longer sharper strokes and one extra
+    one that crosses the lower half
+  _kunyomi: "\u3044\u3064*\u3064(itsu*tsu)\u30005 things COUNTER \u2605\u2605\u2605\u2605\u2605"
+  _jukugo: "[\u4E94+\u6708(month)= \u4E94\u6708 \u3054\u304C\u3064(gogatsu)May \u2605\u2605\u2605\u2605\u2605]
+    [\u4E94+\u65E5(sun.day)= \u4E94\u65E5 \u3044\u3064\u304B(itsuka)  Fifth day of
+    the month \u2605\u2605\u2605\u2605\u2606]"
+  _lookalikes: This kanji doesn't have any specific lookalikes
