@@ -10,6 +10,9 @@ functions:
 
 ## Lessons Mode
 The Lesson game-mode consists of 6 different theme divided lessons where the user will learn the N5 level kanji, the amount of kanji per lesson ranges from 10 to 30, therefore some lessons make take more time to complete than others. Once the user clicks on the desired lesson, they will see the kanji lesson screen.
+
+![](gifs/lessongif.gif)
+
 The various sections of the Kanji Lesson are as follows:
 
   a) Kanji: The Japanese Kanji the current lesson focuses in.
@@ -29,8 +32,11 @@ The various sections of the Kanji Lesson are as follows:
 ## Practice Mode
 This mode includes 7 levels, one for each lesson and a final one with questions from all the lessons. Each practice level has from 3 to 10 questions, where the user is presented a hiragana word and has to select the correct Kanji belonging to it before the time runs out, if the correct Kanji is submitted, they accumulate points, if they answer incorrectly they lose points. 
 
+![](gifs/practicegif.gif)
+
 Once the user submits the answer, a screen will be displayed accordingly whether the answer was correct or wrong. Showing also how many points they gained or lost.
 After a second, the feedback screen fades and the next question is displayed. Once the final question of the level is submitted the final screen will show.
+
 In this screen the user is shown how much they scored, the current high score, a button to return to the index and a button to continue to the next level.
 Once the final level is cleared the “Play next level” button will instead show the “Play from level 1” label to allow the user to try the lessons again and better their high score.
 
