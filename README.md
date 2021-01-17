@@ -40,3 +40,52 @@ After a second, the feedback screen fades and the next question is displayed. On
 In this screen the user is shown how much they scored, the current high score, a button to return to the index and a button to continue to the next level.
 Once the final level is cleared the “Play next level” button will instead show the “Play from level 1” label to allow the user to try the lessons again and better their high score.
 
+```
+//Submit answer method
+    public void Accept()
+    {
+      
+        UpdateTimer(false);
+        bool isCorrect = CheckAnswers();
+        FinishedQuestions.Add(currentQuestion);
+
+        //Addup score
+        UpdateScore((isCorrect)? data.Questions[currentQuestion].AddScore : -data.Questions[currentQuestion].AddScore);
+
+        //Load next level if all questions from current level have been answered
+        //If its last level, ask if user wants to play again
+        if (IsFinished)
+        {
+            events.level++;
+            if(events.level>GameEvents.maxLevel)
+            {
+                events.level =1;
+                nextText.text = "Play From level 1?";
+            }
+            SetHighscore();
+        }
+
+        //Set up UI depending if answe was correct/incorrect or if it was last answer
+        var type
+            = (IsFinished)
+            ? UIManager.ResolutionScreenType.Finish
+            : (isCorrect) ? UIManager.ResolutionScreenType.Correct
+            : UIManager.ResolutionScreenType.Incorrect;
+
+      
+            events.DisplayResolutionScreen(type, data.Questions[currentQuestion].AddScore);
+        
+        //If it was the last answer go to next level
+        if(type !=UIManager.ResolutionScreenType.Finish)
+        {
+            if (IE_WaitTillNextRound != null)
+            {
+                StopCoroutine(IE_WaitTillNextRound);
+            }
+            IE_WaitTillNextRound = WaitTillNextRound();
+            StartCoroutine(IE_WaitTillNextRound);
+        }
+        
+
+    }
+ ```
