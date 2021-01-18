@@ -89,3 +89,9 @@ Once the final level is cleared the “Play next level” button will instead sh
 
     }
  ```
+ 
+m_EditorVersion: 2019.2.6f1
+
+m_EditorVersionWithRevision: 2019.2.6f1 (fe82a0e88406)
+
+
